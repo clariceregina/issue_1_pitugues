@@ -1,6 +1,6 @@
-# Resolução da issue 930
+# Resolução da issue 1
 
-Resolução da issue "[Pituguês] [PyBr2025] Desafio: Verificar valor duplicado", disponível em https://github.com/DesignLiquido/delegua/issues/930
+Resolução da issue "[Pituguês] [PyBr2025] Desafio: Verificar valor duplicado #1", disponível em https://github.com/cumbucadev/desafios-pitugues/issues/1
 
 ## O que é Pituguês?
 
