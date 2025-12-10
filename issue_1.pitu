@@ -1,6 +1,6 @@
-var vetor = ['a', 'b', 'v', 'a']
-var verificados = []
-var duplicado = falso
+vetor = ['a', 'b', 'v', 'a']
+verificados = []
+duplicado = falso
 
 para cada n em vetor:
     se verificados.inclui(n):
